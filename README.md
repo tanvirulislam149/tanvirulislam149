@@ -1,6 +1,35 @@
 ![](https://i.ibb.co/Fh6bJjx/Tanvirul-islam.png)
 
-It's Tanvirul Islam, a Full Stack Web Developer specializing in React. I have extensive skill in developing and deploying websites utilizing various open source packages. I also specialize in JavaScript, Bootstrap, Tailwind and have some projects done with these. In addition, I comfortable to work with NodeJs, ExpressJs, MongoDB.
+<p className="text-xl py-5">
+              Hello! I am Tanvirul Islam from Chattogram, Bangladesh.
+            </p>
+            <p>
+              A passionate web developer skilled in building modern, responsive,
+              and scalable websites and web applications with hands-on
+              experience in technologies like Nextjs, Redux, Django rest
+              framework, Nodejs, Expressjs, MongoDB and PostgreSQL.
+            </p>
+            <p>I specialize in:</p>
+            <div>
+              <ul className="list-disc ml-10">
+                <li className="text-white">
+                  <p>Frontend development with React, Nextjs and Redux.</p>
+                </li>
+                <li>
+                  Backend development with Node.js, Express and Django REST
+                  Framework.
+                </li>
+                <li>
+                  Building RESTful APIs and real-time features (chat,
+                  notifications).
+                </li>
+                <li>Database design with MongoDB and PostgreSQL.</li>
+                <li>
+                  Deploying full-stack apps to cloud platforms like Render,
+                  Vercel, and Netlify.
+                </li>
+              </ul>
+            </div>
 
 Skills: REACT / JS / NodeJs / ExpressJs / MongoDB / HTML / CSS / Bootstrap / Firebase
 
