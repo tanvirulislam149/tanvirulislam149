@@ -33,21 +33,7 @@
 
 ### Skills:
 
-<img src='icons/javascript.png' alt='github' width="40" height='40'>
-<img src='icons/python.png' alt='github' width="40" height='40'>
-<img src='icons/react.png' alt='github' width="40" height='40'>
-<img src='icons/nextjs.png' alt='github' width="40" height='40'>
-<img src='icons/django.png' alt='github' width="40" height='40'>
-<img src='icons/django-rest-framework.png' alt='github' width="40" height='40'>
-<img src='icons/nodejs.png' alt='github' width="40" height='40'>
-<img src='icons/express.png' alt='github' width="40" height='40'>
-<img src='icons/mongodb.png' alt='github' width="40" height='40'>
-<img src='icons/PostgreSQL.png' alt='github' width="40" height='40'>
-<img src='icons/redux.png' alt='github' width="40" height='40'>
-<img src='icons/git.png' alt='github' width="40" height='40'>
-<img src='icons/Html.png' alt='github' width="40" height='40'>
-<img src='icons/css.png' alt='github' width="40" height='40'>
-<img src='icons/tailwind.png' alt='github' width="40" height='40'>
+<img src='icons/javascript.png' alt='github' width="40" height='40'><img src='icons/python.png' alt='github' width="40" height='40'><img src='icons/react.png' alt='github' width="40" height='40'><img src='icons/nextjs.png' alt='github' width="40" height='40'><img src='icons/django.png' alt='github' width="40" height='40'><img src='icons/django-rest-framework.png' alt='github' width="40" height='40'><img src='icons/nodejs.png' alt='github' width="40" height='40'><img src='icons/express.png' alt='github' width="40" height='40'><img src='icons/mongodb.png' alt='github' width="40" height='40'><img src='icons/PostgreSQL.png' alt='github' width="40" height='40'><img src='icons/redux.png' alt='github' width="40" height='40'><img src='icons/git.png' alt='github' width="40" height='40'><img src='icons/Html.png' alt='github' width="40" height='40'><img src='icons/css.png' alt='github' width="40" height='40'><img src='icons/tailwind.png' alt='github' width="40" height='40'>
 
 <br/>
 
