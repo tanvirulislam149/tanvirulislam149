@@ -29,7 +29,7 @@
   </ul>
 </div>
 
-[<img src='icons/github.png' title="Github" alt='github' height='40'>](https://github.com/tanvirulislam149) [<img src='icons/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tanvirul-islam-0242b4241//) [<img src='icons/fb.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.tanvirul.islam.792/) [<img src='icons/portfolio.jpg' title="Portfolio" alt='website' height='40'>](https://tanvirul-islam.vercel.app/)
+[<img src='icons/github.png' title="Github" alt='github'  width="40"  height='40'>](https://github.com/tanvirulislam149) [<img src='icons/linkedin.png' alt='linkedin'  width="40"  height='40'>](https://www.linkedin.com/in/tanvirul-islam-0242b4241/) [<img src='icons/fb.png' alt='facebook'  width="40"  height='40'>](https://www.facebook.com/md.tanvirul.islam.792/) [<img src='icons/portfolio.jpg' title="Portfolio" alt='website'  width="40" height='40'>](https://tanvirul-islam.vercel.app/)
 
 ### Skills:
 
