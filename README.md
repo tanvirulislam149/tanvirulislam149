@@ -1,5 +1,4 @@
-<h1>Hello There!</h1> 
-<h1>I am Tanvirul Islam from Chattogram Bangladesh.</h1>
+<h1>Hello! I am Tanvirul Islam from Chattogram, Bangladesh.</h1>
 <p>
   A passionate web developer skilled in building modern, responsive,
   and scalable websites and web applications with hands-on
