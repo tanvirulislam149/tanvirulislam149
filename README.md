@@ -1,6 +1,4 @@
-![](https://i.ibb.co/60tZFvGh/Tanvirul-islam-1-1.png)
-
-<h3>Hello! I am Tanvirul Islam from Chattogram Bangladesh.</h3>
+<h2>Hello! I am Tanvirul Islam from Chattogram Bangladesh.</h2>
 <p>
   A passionate web developer skilled in building modern, responsive,
   and scalable websites and web applications with hands-on
